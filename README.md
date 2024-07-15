@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>ENCODE ME</h1>
+  <h1>CIPHER ME</h1>
 </div>
   
 ENCODE-ME is a website where one can use various classical cryptography algorithms all in a single website.
@@ -10,8 +10,6 @@ This website is fully responsive so that you can use it in any device.
 
 <div align="center"> 
 
-## Watch the Live [Demo](https://encode-me.netlify.app/)  
-<sup>**Status:**</sup>  [![Netlify Status](https://api.netlify.com/api/v1/badges/b0412e6c-5e5e-4d10-a89e-0ac5014dc1f7/deploy-status)](https://app.netlify.com/sites/encode-me/deploys)
 </div> 
 
 
@@ -19,8 +17,6 @@ This website is fully responsive so that you can use it in any device.
 
 ![ENCODE-ME](https://github.com/mohitpanthri/EncodeMe/assets/99413629/8f984ba2-b357-4ca3-865b-7fbdecd35101)
 
-
-https://github.com/mohitpanthri/EncodeMe/assets/99413629/4f3669aa-58ed-442a-9f9b-e2e6921357f7
 
 
 
