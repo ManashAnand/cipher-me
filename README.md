@@ -34,6 +34,5 @@ This website is fully responsive so that you can use it in any device.
 
 <hr>
 
-© 2023 Mohit Panthri
+© 2024 Manash And 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
