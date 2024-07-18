@@ -34,5 +34,5 @@ This website is fully responsive so that you can use it in any device.
 
 <hr>
 
-© 2024 Manash And 
+© 2024 Manash Anand 
 
